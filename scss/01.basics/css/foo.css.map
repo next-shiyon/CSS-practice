@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["../scss/foo.scss"],"names":[],"mappings":"AASA;EACE,OATW;EAaT,WAVQ;EAWR,aAZU;EAeZ,aAXY;;;AAcd;EACE;EACA,WAvBe","file":"foo.css"}
+{"version":3,"sourceRoot":"","sources":["../scss/foo.scss"],"names":[],"mappings":"AASA,KACE,MATW,KAaT,UAVQ,KAWR,YAZU,iBAeZ,YAXY,KAcd,MACE,WACA,UAvBe","file":"foo.css"}
