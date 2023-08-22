@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build:sass": "sass --style compressed scss/:css/"
+    "build:sass": "sass  --watch scss/:css/"
   },
   "keywords": [],
   "author": "",
