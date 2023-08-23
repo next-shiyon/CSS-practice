@@ -1,0 +1,12 @@
+{
+  "name": "02.sass-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:sass": "sass scss/:css/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

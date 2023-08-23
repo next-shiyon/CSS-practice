@@ -1,0 +1,11 @@
+// map
+$foundation-palette: (
+  primary: #e44347,
+  mars: #d7525c,
+  saturn: #e4b884,
+  neptune: #5147d7,
+);
+
+.mars {
+  color: map-get($foundation-palette, mars);
+}
